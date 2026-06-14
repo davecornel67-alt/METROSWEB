@@ -1,0 +1,6 @@
+{
+  "name": "Metro Lodge Durban",
+  "description": "Affordable comfort across Durban. Five convenient lodge locations with modern and comfortable rooms, free Wi-Fi, and secure environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
